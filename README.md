@@ -1,10 +1,3 @@
-<!-- Logo -->
-<p align="center">
-  <a href="https://github.com/sanjaysunil/betterdiscordpanel">
-    <img src="./assets/images/betterdiscordpanel.png" alt="Logo" width="100" height="100">
-  </a>
-</p>
-
 <!-- Title -->
 <h1 align="center">Delicacy Dashboard</h1>
   <p align="center">
@@ -15,18 +8,6 @@
   </p>
 </h1>
 <br/><br/>
-
-<!-- Preview -->
-<p align="center">
-  <a href="">
-    <img src="./assets/images/previews/preview.png" width="100%"/>
-  </a>
-  <!-- Drop Shadow -->
-  <a href="">
-    <img src="./assets/images/previews/dropShadow.png" width="100%"/>
-  </a>
-</p>
-<br/>
 
 <!-- Information -->
 
